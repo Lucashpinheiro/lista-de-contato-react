@@ -4,7 +4,7 @@ import { useDispatch } from 'react-redux'
 import * as S from './styles'
 
 import Contato from '../../models/Contato'
-import { cadastrar, editar, remover } from '../../store/reducers/contatos'
+import { editar, remover } from '../../store/reducers/contatos'
 
 type Props = Contato
 
