@@ -22,4 +22,5 @@ export const Salvar = styled.button`
   font-size: 16px;
   border-radius: 8px;
   border: none;
+  cursor: pointer;
 `

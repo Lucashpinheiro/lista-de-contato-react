@@ -17,7 +17,6 @@ const Formulario = () => {
     setEmail('')
     setTelefone('')
   }
-
   return (
     <Form onSubmit={cadastrarContato}>
       <input

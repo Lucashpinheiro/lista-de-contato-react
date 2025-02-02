@@ -24,17 +24,7 @@ export const Deletar = styled.button`
   border-radius: 8px;
   cursor: pointer;
 `
-export const Editar = styled.button`
-  background-color: #ffeb00;
-  color: #fff;
-  font-weight: bold;
-  font-size: 14px;
-  margin-right: 16px;
-  padding: 8px 16px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-`
+
 export const Salvar = styled.button`
   background-color: #508d4e;
   color: #fff;
@@ -48,6 +38,17 @@ export const Salvar = styled.button`
 `
 export const Cancelar = styled.button`
   background-color: #ff2929;
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 16px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+`
+export const Editar = styled.button`
+  background-color: #ffeb00;
   color: #fff;
   font-weight: bold;
   font-size: 14px;
